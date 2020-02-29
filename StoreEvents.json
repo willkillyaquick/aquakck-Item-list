@@ -196,16 +196,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
@@ -301,5 +291,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 60
+	"total": 58
 }
